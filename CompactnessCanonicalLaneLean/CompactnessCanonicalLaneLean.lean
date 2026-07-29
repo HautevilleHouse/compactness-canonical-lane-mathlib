@@ -1,0 +1,7 @@
+import CompactnessCanonicalLaneLean.Basic
+
+namespace HautevilleHouse
+namespace CompactnessCanonicalLaneLean
+
+end CompactnessCanonicalLaneLean
+end HautevilleHouse
